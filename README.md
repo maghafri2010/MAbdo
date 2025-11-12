@@ -23,9 +23,9 @@ Currently working on **MindScript** and 1337 projects while exploring **React, N
 ### 🎓 Education
 | Institution | Degree / Program | Dates | Skills |
 |---|---|---|---|
+| 1337 Coding School | Coding Program, Computer Software Engineering | Oct 2025 | C, Data Analysis, Linux System Administration |
 | University of the People | Bachelor's in Computer Science | Sep 2023 – Jun 2026 | Linux, Java, React.js, JavaFX, Spring Boot, JavaScript, DBMS |
 | Université Ibn Zohr | Bachelor's in English Language & Literature | 2022 – 2025 | — |
-| 1337 Coding School | Coding Program, Computer Software Engineering | Oct 2025 | C, Data Analysis, Linux System Administration |
 
 ---
 
