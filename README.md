@@ -46,13 +46,13 @@ Currently working on **MindScript** and 1337 projects while exploring **React, N
 ---
 
 ### 📈 GitHub Stats
-![MAbdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![MAbdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=maghafri2010&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MAbdo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelmoghit-maghafri)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?style=for-the-badge&logo=gmail)](mailto:abdomagha8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abdomagha8@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abdomagha8@gmail.com)
 
 ---
 
