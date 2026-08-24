@@ -1,63 +1,37 @@
-<h1 align="center">Hi 👋, I'm MAbdo</h1>
-<h3 align="center">Full-Stack Developer | CS & English Studies | 1337 Coding School Student</h3>
+### Hi, I'm Abdo.
+
+Sometimes building isn't about creating a project. It's about having the balls to finish one.
+
+I say that because my repo history is proof of the alternative. I've started more things than I'll ever admit to. What separates the ones below from the graveyard isn't a better idea, it's that I shipped them anyway, half convinced they were dumb, and finished regardless.
 
 ---
 
-### 🔭 About Me
-I am a **Computer Science & English Studies student** from Morocco with hands-on experience in **full-stack development**.  
-Currently working on **MindScript** and 1337 projects while exploring **React, Node.js, and React Native**.  
+Currently studying Computer Science (UoPeople) and Computer Software Engineering (1337/42 Network).
 
-- 🧩 Passionate about building clean, efficient, and scalable software  
-- 🌱 Continuously learning modern web technologies and best practices  
-- ⚡ Strong background in both backend and frontend development  
+An English Literature degree happened somewhere in there too. No, I don't have a tidy explanation for why. It's turned out useful in ways a CS degree alone wouldn't have.
 
 ---
 
-### 💼 Experience
-**VNB-IT**  
-- Back-end Developer (Node.js & PostgreSQL) – Nov 2025 – Present  
-- Mobile Frontend Developer (React Native, TypeScript) – Aug 2025 – Nov 2025  
+### What I've actually finished
 
----
-
-### 🎓 Education
-| Institution | Degree / Program | Dates | Skills |
-|---|---|---|---|
-| 1337 Coding School | Coding Program, Computer Software Engineering | Oct 2025 | C, Data Analysis, Linux System Administration |
-| University of the People | Bachelor's in Computer Science | Sep 2023 – Jun 2026 | Linux, Java, React.js, JavaFX, Spring Boot, JavaScript, DBMS |
-| Université Ibn Zohr | Bachelor's in English Language & Literature | 2022 – 2025 | — |
-
----
-
-### 🛠️ Tech Stack
-| Frontend | Backend | Languages | Tools |
-|---|---|---|---|
-| React, React Native, Tailwind CSS | Node.js, Express.js | C, Java, JavaFX, JavaScript, TypeScript, SQL | Git, GitHub, MySQL, VS Code, Linux |
-
----
-
-### 🌟 Projects
-| Project | Description | Link |
+| Project | What it is | Why it exists |
 |---|---|---|
-| MindScript | Personal finance tracker with charts & analytics | [GitHub](https://github.com/Maghafri2010/Mind-Script_Frontend) |
-| Libft | 1337 custom C library | [GitHub](https://github.com/maghafri2010/Libft) |
-| ft_printf | 1337 project, custom printf implementation | [GitHub](https://github.com/maghafri2010/ft_printf) |
-
----
-![amaghafr's 42 stats](https://badge.mediaplus.ma/darkblue/amaghafr)
-
----
-![Leetcode Stats](https://leetcard.jacoblin.cool/MABFLOW)
-
-### 📈 GitHub Stats
-![MAbdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=maghafri2010&show_icons=true&theme=radical)
+| [RoundTable](https://github.com/MABFLOW/RoundTable) | Claude, Gemini, and ChatGPT in one shared terminal conversation, actually arguing with each other | Wanted to know how multi model orchestration really works. Turns out Gemini 3 burns your token budget on "thinking" and won't tell you. Found out the hard way. |
+| LibSpring | A modular backend library spanning Node.js, Python, and Spring Boot, with a full JWT/Spring Security auth implementation | Got tired of re solving the same backend problems in three different stacks |
+| RAG Against the Machine | RAG pipeline using BM25S and Qwen3-4B-Instruct, CLI driven | Wanted to actually understand retrieval instead of trusting a framework to do it for me |
+| TM | A CLI task manager, Python and SQLite | Notion was more overhead than the tasks it was tracking, so I built the smaller thing |
+| MindScript (Backend, Spring Boot) | Personal finance tracker backend | Wanted to stop guessing where my money went |
 
 ---
 
-### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MAbdo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelmoghit-maghafri)
-[![Email](https://img.shields.io/badge/Email-abdomagha8@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abdomagha8@gmail.com)
+### Stack, roughly
+
+Python, JavaScript/TypeScript, Java, C. React / React Native. Node.js / FastAPI / Spring Boot. Claude / OpenAI / Gemini APIs. Linux.
+
+### Reach me
+
+[LinkedIn](#) [Email](#)
 
 ---
 
-“Code is poetry, and I aim to write elegant verses.” ✨
+<sub>Contribution graph below is mostly true. Some of those commits were 2am decisions I stand by.</sub>
